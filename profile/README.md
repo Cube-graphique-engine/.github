@@ -4,8 +4,6 @@
 
 <h3 style="text-align: center">Cube-graphique-engine contains the source code of the Cub3D project and Library use to create it</h3>
 
-<a href="https://42lyon.fr"><img src="https://campusnumerique.auvergnerhonealpes.fr/app/uploads/2020/06/logo-noir-42-lyon.png" height=" 25"></a>
-
 - ✍🏻 Created by Mathis Martini and Pierre Lavergne.
 - 📫 How to reach us : **contact@mathis-martini.fr** **pierre.lvrgn@gmail.com.**.
 - 📫 How to reach us in 42: **mathmart@student.42lyon.fr** or **plavergn@student.42lyon.fr**.
