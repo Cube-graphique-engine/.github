@@ -1,8 +1,8 @@
 # <h1 align="center">📋 Cube-graphique-engine 📃</h1>
 
-# Welcome to the Cub3D wiki! <img src="https://avatars.githubusercontent.com/u/109475065?s=400&u=63d86cfbf17df8ec0e4b3b889230b85c0c951076&v=4" width="25">
+# Welcome to the Cube-graphique-engine organisation ! <img src="https://avatars.githubusercontent.com/u/109475065?s=400&u=63d86cfbf17df8ec0e4b3b889230b85c0c951076&v=4" width="25">
 
-<h3 style="text-align: center">Cub3D is a 42 school project that aims to create an inspiring graphics engine from the DOOM game engine</h3>
+<h3 style="text-align: center">Cube-graphique-engine contains the source code of the Cub3D project and Library use to create it</h3>
 
 <a href="https://42lyon.fr"><img src="https://campusnumerique.auvergnerhonealpes.fr/app/uploads/2020/06/logo-noir-42-lyon.png" height=" 25"></a>
 
